@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](/assets/images/png)
+![how are you](/assets/images/George.png)
 
 
 
