@@ -1,9 +1,4 @@
 ## Hi there 👋
-<!--
-Robotic Modelling and Drone Skin Design - Example Website
-By Luke Emery | staffs.ac.uk
-Copyright (c) 2022 Luke Emery - All Rights Reserved
--->
 
 <!--
 **George-Paizakis/George-Paizakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
