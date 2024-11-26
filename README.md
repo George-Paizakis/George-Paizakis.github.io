@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Robotic Modelling and Drone Skin Design banner image](/assets/images/BB_Banner_RMaDSD@4x.png)
+![](/assets/images/png)
 
 
 
