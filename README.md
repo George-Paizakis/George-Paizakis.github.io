@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![how are you](/assets/images/png-transparent-2018-tomorrowland-tomorrowworld-music-festival-decal-2016-tomorrowland-tomorrowland-heart-logo-sticker.png)
+
 
 
 
