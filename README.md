@@ -2,7 +2,8 @@
 
 <!--
 **George-Paizakis/George-Paizakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
+![Robotic Modelling and Drone Skin Design banner image](/assets/images/BB_Banner_RMaDSD@4x.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
