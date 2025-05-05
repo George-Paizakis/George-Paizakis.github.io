@@ -1,1 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+h1, h2 {
+    color: #333;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+section {
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+    margin-top: 15px;
+}
 
