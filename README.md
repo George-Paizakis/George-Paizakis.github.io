@@ -1,3 +1,5 @@
+Hi, my name is George Paizakis and this portfolio presents my work on the development of a robotic parrot prototype as part of the "Robotic Modelling and Drone Skin Design" module (COMP60019).
+
 Robotic Parrot Prototype Portfolio
 
  Overview
